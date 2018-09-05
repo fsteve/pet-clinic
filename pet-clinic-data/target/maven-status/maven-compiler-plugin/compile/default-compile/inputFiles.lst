@@ -1,5 +1,14 @@
-/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/Person.java
-/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/PetType.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/VetServiceMap.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/BaseEntity.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/AbstractMapService.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/OwnerServiceMap.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/VetService.java
 /Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/Owner.java
 /Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/Vet.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/OwnerService.java
 /Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/Pet.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/map/PetServiceMap.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/Person.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/model/PetType.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/PetService.java
+/Users/Steve/Spring5/pet-clinic/pet-clinic-data/src/main/java/guru/springframework/petclinic/services/CrudService.java
